@@ -9,6 +9,7 @@ In this repository, various statistical learning models have been used to explai
 4. Boosting Machine
 5. K-Mean Clustering
 6. Principal Componenet Analysis (PCA)
+7. Bagging
 
 ## Sampling Methods:
 1. Cross-validation Sampling
